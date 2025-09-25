@@ -1,3 +1,6 @@
+
+```pod 'FMDBMigrationManager', :git => 'https://github.com/c-shen/FMDBMigrationManager.git'```
+
 A SQLite schema migration management system for [FMDB](https://github.com/ccgus/fmdb).
 
 FMDBMigrationManager is the missing schema management system for SQLite databases accessed via the FMDB library. It provides a simple, flexible solution for introducing versioned schema management into a new or existing Cocoa application using SQLite and FMDB for persistence.
